@@ -1,7 +1,5 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
-THIS IS A TEST OF MY GITHUB ACCOUNT
-AND THIS IS A TEST BRANCH TO SEE IF i CAN MERGE IT IN TO MY OWN REPOSITORY
 
   Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
 
